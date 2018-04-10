@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  GDIHelper.cpp
+  Matrix.cpp
+  Renderer.cpp
+  SoftRenderer.cpp
+  Vector.cpp
+  코드를 생성하고 있습니다...
+  SoftRenderer.vcxproj -> C:\Jin\SoftRenderer-master\x64\Debug\SoftRenderer.exe
